@@ -1,0 +1,8 @@
+site_name: "bs-poc-demo"
+site_description: "sdfsadf"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

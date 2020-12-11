@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "bs-poc-demo"
+  description: "sdfsadf"
+  annotations:
+    github.com/project-slug: "bryce-larson/poc-docsss"
+    backstage.io/techdocs-ref: github:https://github.com/bryce-larson/poc-docsss
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "bryce-larson"
